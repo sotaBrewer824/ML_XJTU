@@ -1,0 +1,119 @@
+Epoch 0 training complete
+Cost on training data: 0.4864990500995526
+Accuracy on training data: 45648.0 / 50000
+Cost on evaluation data: 0.5171438222818319
+Accuracy on evaluation data: 9082.0 / 10000
+
+Epoch 1 training complete
+Cost on training data: 0.32762718180961936
+Accuracy on training data: 47155.0 / 50000
+Cost on evaluation data: 0.38299592178724307
+Accuracy on evaluation data: 9341.0 / 10000
+
+Epoch 2 training complete
+Cost on training data: 0.3086852753678556
+Accuracy on training data: 47275.0 / 50000
+Cost on evaluation data: 0.399539299143793
+Accuracy on evaluation data: 9345.0 / 10000
+
+Epoch 3 training complete
+Cost on training data: 0.24972857496684978
+Accuracy on training data: 47834.0 / 50000
+Cost on evaluation data: 0.3585633140924723
+Accuracy on evaluation data: 9397.0 / 10000
+
+Epoch 4 training complete
+Cost on training data: 0.22723462892513618
+Accuracy on training data: 47965.0 / 50000
+Cost on evaluation data: 0.35218769857094817
+Accuracy on evaluation data: 9446.0 / 10000
+
+Epoch 5 training complete
+Cost on training data: 0.16733928319261923
+Accuracy on training data: 48490.0 / 50000
+Cost on evaluation data: 0.2993975071402639
+Accuracy on evaluation data: 9539.0 / 10000
+
+Epoch 6 training complete
+Cost on training data: 0.13263494238211188
+Accuracy on training data: 48820.0 / 50000
+Cost on evaluation data: 0.2848000556186426
+Accuracy on evaluation data: 9534.0 / 10000
+
+Epoch 7 training complete
+Cost on training data: 0.12413167242826531
+Accuracy on training data: 48926.0 / 50000
+Cost on evaluation data: 0.280473272887883
+Accuracy on evaluation data: 9561.0 / 10000
+
+Epoch 8 training complete
+Cost on training data: 0.10126083659446701
+Accuracy on training data: 49146.0 / 50000
+Cost on evaluation data: 0.2909174340393559
+Accuracy on evaluation data: 9552.0 / 10000
+
+Epoch 9 training complete
+Cost on training data: 0.07950659594425181
+Accuracy on training data: 49331.0 / 50000
+Cost on evaluation data: 0.28240616318534334
+Accuracy on evaluation data: 9589.0 / 10000
+
+Epoch 10 training complete
+Cost on training data: 0.07638307314555179
+Accuracy on training data: 49361.0 / 50000
+Cost on evaluation data: 0.2893474599986748
+Accuracy on evaluation data: 9598.0 / 10000
+
+Epoch 11 training complete
+Cost on training data: 0.07294671256650084
+Accuracy on training data: 49367.0 / 50000
+Cost on evaluation data: 0.30407742756999756
+Accuracy on evaluation data: 9567.0 / 10000
+
+Epoch 12 training complete
+Cost on training data: 0.07402528046767626
+Accuracy on training data: 49372.0 / 50000
+Cost on evaluation data: 0.3076031010374318
+Accuracy on evaluation data: 9555.0 / 10000
+
+Epoch 13 training complete
+Cost on training data: 0.047381324957852036
+Accuracy on training data: 49610.0 / 50000
+Cost on evaluation data: 0.2991721910718146
+Accuracy on evaluation data: 9613.0 / 10000
+
+Epoch 14 training complete
+Cost on training data: 0.039001067374808
+Accuracy on training data: 49705.0 / 50000
+Cost on evaluation data: 0.28855569143429394
+Accuracy on evaluation data: 9589.0 / 10000
+
+Epoch 15 training complete
+Cost on training data: 0.02830440419954917
+Accuracy on training data: 49800.0 / 50000
+Cost on evaluation data: 0.28475461901351434
+Accuracy on evaluation data: 9619.0 / 10000
+
+Epoch 16 training complete
+Cost on training data: 0.02440925100559722
+Accuracy on training data: 49846.0 / 50000
+Cost on evaluation data: 0.28767409965738916
+Accuracy on evaluation data: 9626.0 / 10000
+
+Epoch 17 training complete
+Cost on training data: 0.01862185593626093
+Accuracy on training data: 49883.0 / 50000
+Cost on evaluation data: 0.29037706748223857
+Accuracy on evaluation data: 9645.0 / 10000
+
+Epoch 18 training complete
+Cost on training data: 0.013902421587521778
+Accuracy on training data: 49932.0 / 50000
+Cost on evaluation data: 0.28878484204108124
+Accuracy on evaluation data: 9639.0 / 10000
+
+Epoch 19 training complete
+Cost on training data: 0.014437471805492598
+Accuracy on training data: 49916.0 / 50000
+Cost on evaluation data: 0.29415119177326415
+Accuracy on evaluation data: 9635.0 / 10000
