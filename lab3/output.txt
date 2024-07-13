@@ -1,0 +1,40 @@
+loading:0/10208
+loading:1000/10208
+loading:2000/10208
+loading:3000/10208
+loading:4000/10208
+loading:5000/10208
+loading:6000/10208
+loading:7000/10208
+loading:8000/10208
+loading:9000/10208
+loading:10000/10208
+loading:0/2552
+loading:1000/2552
+loading:2000/2552
+stemmer TF
+Accuracy: 9484/10208 92.91%
+Accuracy: 2231/2552 87.42%
+stemmer Bernoulli
+Accuracy: 9478/10208 92.85%
+Accuracy: 2211/2552 86.64%
+loading:0/10208
+loading:1000/10208
+loading:2000/10208
+loading:3000/10208
+loading:4000/10208
+loading:5000/10208
+loading:6000/10208
+loading:7000/10208
+loading:8000/10208
+loading:9000/10208
+loading:10000/10208
+loading:0/2552
+loading:1000/2552
+loading:2000/2552
+lemmatizer TF
+Accuracy: 9546/10208 93.51%
+Accuracy: 2229/2552 87.34%
+lemmatizer Bernoulli
+Accuracy: 9536/10208 93.42%
+Accuracy: 2223/2552 87.11%
